@@ -1,6 +1,6 @@
 This wiki is for a test server, the assets seen are from THCoTD (TO-DO: link to THCoTD wiki when made).
 
-## Section
+# Section
 This is a section, headers will show in the table of contents. \
 Test of custom image implementation: \
 ![[terry-davis-wobble.gif|left|This is a caption]]
