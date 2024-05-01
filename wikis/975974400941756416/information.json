@@ -5,7 +5,10 @@
   "description": "An example wiki used for testing.",
   "server": 975974400941756416,
   "invite": "t5kCQM3N39"
-  "creation": 1714600197,
+  "creation": {
+    "wiki": 1714600197,
+    "server": 1652804029
+  },
   "auth": [
     "server_owner": 259445589773647872,
     "wiki_owner": 1123758641485459477,
