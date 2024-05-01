@@ -1,0 +1,17 @@
+{
+  "$scheme": "https://raw.githubusercontent.com/diswiki/api/main/v1/wikis/schema.json",
+  "version": 1,
+  "name": "Test Wiki",
+  "description": "An example wiki used for testing.",
+  "server": 975974400941756416,
+  "invite": "t5kCQM3N39"
+  "creation": 1714600197,
+  "auth": [
+    "server_owner": 259445589773647872,
+    "wiki_owner": 1123758641485459477,
+    "wiki_admins": [
+      259445589773647872,
+      1222681112199823492
+    ]
+  ]
+}
