@@ -1,5 +1,5 @@
 {
-  "$scheme": "https://raw.githubusercontent.com/diswiki/api/main/v1/wikis/schema-v1.json",
+  "$schema": "https://raw.githubusercontent.com/diswiki/api/main/v1/wikis/schema-v1.json",
   "version": 1,
   "name": "Test Wiki",
   "description": "An example wiki used for testing.",

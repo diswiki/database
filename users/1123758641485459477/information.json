@@ -1,5 +1,5 @@
 {
-  "$scheme": "https://raw.githubusercontent.com/diswiki/api/main/v1/users/schema-v1.json",
+  "$schema": "https://raw.githubusercontent.com/diswiki/api/main/v1/users/schema-v1.json",
   "version": 1,
   "username": "maximumtrollage",
   "name": "Maximilien Trolliver",
