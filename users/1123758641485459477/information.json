@@ -1,0 +1,13 @@
+{
+  "$scheme": "https://raw.githubusercontent.com/diswiki/api/main/v1/users/schema-v1.json",
+  "version": 1,
+  "username": "maximumtrollage",
+  "name": "Maximilien Trolliver",
+  "description": "The owner of DisWiki.",
+  "uid": 1123758641485459477
+  "server": 975974400941756416,
+  "creation": {
+    "wiki": 1714600197,
+    "discord": 1687995338
+  }
+}
