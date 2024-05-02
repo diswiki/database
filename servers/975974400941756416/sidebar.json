@@ -1,5 +1,5 @@
 {
-  "content": [
+  "content": {
     [
       "header": "Test Header",
       "markdown_content": "This is a description.\n|Table Header | Another Table Header |\n|-|-|\n|Some content.|Some more content.|",
@@ -11,5 +11,5 @@
         ]
       ]
     ]
-  ]
+  }
 }
