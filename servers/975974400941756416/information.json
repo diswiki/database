@@ -1,10 +1,14 @@
 {
-  "$schema": "https://raw.githubusercontent.com/diswiki/api/main/v1/wikis/schema-v1.json",
+  "$schema": "https://raw.githubusercontent.com/diswiki/resources/main/server/schema-v1.json",
   "version": 1,
+  "last_updated": 1714884919, 
   "name": "Test Wiki",
   "description": "An example wiki used for testing.",
   "server": 975974400941756416,
   "invite": "t5kCQM3N39",
+  "likes": 0,
+  "shares": 0,
+  "reports": 0,
   "creation": {
     "wiki": 1714600197,
     "server": 1652804029
