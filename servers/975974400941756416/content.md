@@ -47,13 +47,13 @@ For the creative minds, our <wiki-channel>art-gallery</wiki-channel> is the plac
 Stay updated on server events and announcements in <wiki-channel>server-news</wiki-channel>, and don't forget to check out our voice channels for real-time conversations with other members. Whether you're a seasoned gamer or just starting out, there's a place for everyone here in our Discord server. Join us and become part of our growing community!
 
 # Staff
-*Below is a table test:*
+*Below is a table test:* <br/>
 | User    | Desc. |
 | -------- | ------- |
 | <wiki-user>Yendy</wiki-user>  | Server Owner    |
 | <wiki-user>Maximum Trollage</wiki-user> | Admin  |
 | <wiki-user>Jarvis</wiki-user>    | MVP    |
-<br/>
+<br/><br/>
 <table>
     <tr>
         <th><wiki-user>Yendy</wiki-user></th>
