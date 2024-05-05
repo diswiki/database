@@ -53,6 +53,21 @@ Stay updated on server events and announcements in <wiki-channel>server-news</wi
 | <wiki-user>Yendy</wiki-user>  | Server Owner    |
 | <wiki-user>Maximum Trollage</wiki-user> | Admin  |
 | <wiki-user>Jarvis</wiki-user>    | MVP    |
+<br/>
+<table>
+    <tr>
+        <th><wiki-user>Yendy</wiki-user></th>
+        <td>Server Owner</td>
+    </tr>
+    <tr>
+        <th><wiki-user>Maximum Trollage</wiki-user></th>
+        <td>Admin</td>
+    </tr>
+    <tr>
+        <th><wiki-user>Jarvis</wiki-user></th>
+        <td>MVP</td>
+    </tr>
+</table>
 
 # Server History
 
