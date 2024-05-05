@@ -4,7 +4,7 @@
   "last_updated": 1714884919, 
   "name": "Test Wiki",
   "description": "An example wiki used for testing.",
-  "server": 975974400941756416,
+  "server": "975974400941756416",
   "invite": "t5kCQM3N39",
   "likes": 0,
   "shares": 0,
@@ -14,11 +14,11 @@
     "server": 1652804029
   },
   "auth": {
-    "server_owner": 259445589773647872,
-    "wiki_owner": 1123758641485459477,
+    "server_owner": "259445589773647872",
+    "wiki_owner": "1123758641485459477",
     "wiki_admins": [
-      259445589773647872,
-      1222681112199823492
+      "259445589773647872",
+      "1222681112199823492"
     ]
   }
 }
