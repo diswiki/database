@@ -74,7 +74,7 @@ This web site is using `markedjs/marked`.
 
 ### Image
 Custom image implementation sample: <br/>
-<wiki-image file="terry-davis-wobble.gif" placement="left" size="200">Terry A. Davis got them moves!</wiki-image>
+<wiki-image file="terry-davis-wobble.gif" placement="break" size="200">Terry A. Davis got them moves!</wiki-image>
 <br/>
 
 ### Users and Channels
