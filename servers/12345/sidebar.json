@@ -1,16 +1,28 @@
 {
-    "content": [
-      {
-        "header": "Test Header",
-        "markdown_content": "This is a description.\n|Table Header | Another Table Header |\n|-|-|\n|Some content.|Some more content.|",
-        "images_above_markdown_content": false,
-        "images": [
-          {
-            "name": "terry-davis-wobble.gif",
-            "caption": "Terry Davis dancing."
-          }
-        ]
-      }
-    ]
-  }
-  
+  "content": [
+    {
+      "header": "Test Header",
+      "fields": [
+        {
+          "name": "Name",
+          "value": "Data"
+        },
+        {
+          "name": "Thing",
+          "value": "Stuff"
+        },
+        {
+          "name": "Person",
+          "value": "<wiki-user>Yuh Mutha</wiki-user>"
+        }
+      ],
+      "images_above_content": false,
+      "images": [
+        {
+          "name": "terry-davis-wobble.gif",
+          "caption": "Terry Davis dancing."
+        }
+      ]
+    }
+  ]
+}
