@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/diswiki/resources/main/server/schema-v1.json",
+    "version": 1,
+    "last_updated": 1715260869, 
+    "name": "Markdown Example",
+    "description": "An example wiki page used for markdown testing.",
+    "server": "975974400941756416",
+    "invite": "t5kCQM3N39",
+    "likes": 0,
+    "shares": 0,
+    "reports": 0,
+    "creation": {
+      "wiki": 1715260869,
+      "server": 1652804029
+    },
+    "auth": {
+      "server_owner": "259445589773647872",
+      "wiki_owner": "1123758641485459477",
+      "wiki_admins": [
+        "259445589773647872",
+        "1222681112199823492"
+      ]
+    }
+  }
+  
